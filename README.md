@@ -14,6 +14,7 @@ Group Members:
 ## Languages
 
 - Frontend : JSP, CSS, JS
+- CSS Framework : Bootstrap
 - Backend : Java
 - Database : MySQL
 
