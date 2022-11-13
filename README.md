@@ -1,6 +1,6 @@
 # Online-Examination-Management-System
 
-The system is a a Web based examination management system devoped using pure java ,as a project for the Object Oriented Programming Module. Using MYSQL as the database management system.
+The system is a Web-based examination management system developed using pure java, as a project for the Object Oriented Programming Module. Using MYSQL as the database management system.
 
 ## 2nd Year First Semester OOP Project (SLIIT)
 
